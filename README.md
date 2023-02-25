@@ -18,17 +18,21 @@
         </li>
     </ul>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathewbushuru&langs_count=10&hide=Jupyter%20Notebook,Verilog,TeX&layout=compact" alt="Most used languages" />
-</p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mathewbushuru&hide=stars,issues&count_private=true&show_icons=true" alt="GitHub Stats" />
-</p>
+<details align="center">
+    <summary><b>My GitHub Stats</b></summary>    
+     <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathewbushuru&langs_count=10&hide=Jupyter%20Notebook,Verilog,TeX&layout=compact" alt="Most used languages" />
+    </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mathewbushuru&hide=stars,issues&count_private=true&show_icons=true" alt="GitHub Stats" />
+    </p>
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewbushuru&count_private=true" alt="Coding Streak" />
+    </p>    
+</details>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewbushuru&count_private=true" alt="Coding Streak" />
-</p>
+---
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mathewbushuru/" target="_blank">
