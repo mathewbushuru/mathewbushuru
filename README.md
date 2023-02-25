@@ -33,9 +33,8 @@
 
 <br/>
 <p align="center">
-    <b>Things I code with</>
+    <b>Things I Code With</>
 </p>
-
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
