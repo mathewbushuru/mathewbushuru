@@ -21,16 +21,16 @@
 <details align="center">
     <summary><b>My GitHub Stats</b></summary>   
      <p align="center">
-        <img src="https://mathewb-github-stats.vercel.app/api/top-langs?username=mathewbushuru&langs_count=10&hide=Jupyter%20Notebook,HTML,ActionScript,Dart,LilyPond,SCSS,TeX&layout=compact&bg_color=00000000" alt="Most used languages" />
+        <img src="https://mathewb-github-stats.vercel.app/api/top-langs?username=mathewbushuru&langs_count=10&hide=Jupyter%20Notebook,HTML,ActionScript,Dart,LilyPond,SCSS,TeX&layout=compact" alt="Most used languages" />
     </p>
     <p align="center">
-        <img src="https://mathewb-github-stats.vercel.app/api?hide=stars&count_private=true&username=mathewbushuru&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
+        <img src="https://mathewb-github-stats.vercel.app/api?hide=stars&count_private=true&username=mathewbushuru&show_icons=true" alt="GitHub Stats" />
     </p>
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewbushuru" alt="Coding Streak" />
     </p>  
     <p align="center">
-        <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=false&custom_title=Weekly%20Development%20Breakdown&bg_color=00000000" alt="Wakatime" />
+        <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=false&custom_title=Weekly%20Development%20Breakdown" alt="Wakatime" />
     </p>   
     <p align="center">
      <img src="https://wakatime.com/badge/user/2d0aa16f-c1ac-418b-a6e5-65df0e2a9222.svg" alt="Wakatime Time" />
