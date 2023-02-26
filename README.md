@@ -31,7 +31,7 @@
     </p>   
     <p align="center">
         <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=false&custom_title=Weekly%20Development%20Breakdown" alt="Wakatime" />
-    </p>   
+    </p>    
     <!-- <p align="center">
         <img src="https://github.com/mathewbushuru/mathewbushuru/blob/main/images/stat.svg" alt="Weekly development breakdown" />
      </p> -->
