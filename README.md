@@ -19,12 +19,15 @@
     </ul>
 
 <details align="center">
-    <summary><b>My GitHub Stats</b></summary>    
+    <summary><b>My GitHub Stats</b></summary>   
      <p align="center">
         <img src="https://mathewb-github-stats.vercel.app/api/top-langs?username=mathewbushuru&langs_count=10&hide=Jupyter%20Notebook,HTML,ActionScript,Dart,LilyPond,SCSS,TeX&layout=compact" alt="Most used languages" />
     </p>
     <p align="center">
-        <img src="https://mathewb-github-stats.vercel.app/api?hide=stars%2Cissues&count_private=true&username=mathewbushuru&show_icons=true" alt="GitHub Stats" />
+        <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=true" alt="Wakatime" />
+    </p> 
+    <p align="center">
+        <img src="https://mathewb-github-stats.vercel.app/api?hide=stars&count_private=true&username=mathewbushuru&show_icons=true" alt="GitHub Stats" />
     </p>
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewbushuru&count_private=true" alt="Coding Streak" />
@@ -35,7 +38,7 @@
 <p align="center">
     <b>Things I Code With</>
 </p>
-<p>
+<p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
