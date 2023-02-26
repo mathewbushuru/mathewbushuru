@@ -29,9 +29,12 @@
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewbushuru&count_private=true" alt="Coding Streak" />
     </p>  
-    <!-- <p align="center">
-        <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=true" alt="Wakatime" />
-    </p>    -->
+    <p align="center">
+        <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=false&custom_title=Weekly%20Development%20Breakdown" alt="Wakatime" />
+    </p>   
+    <p align="center">
+     <img src="https://wakatime.com/badge/user/2d0aa16f-c1ac-418b-a6e5-65df0e2a9222.svg" alt="Wakatime Time" />
+     </p>
 </details>
 
 <br/>
