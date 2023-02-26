@@ -24,14 +24,14 @@
         <img src="https://mathewb-github-stats.vercel.app/api/top-langs?username=mathewbushuru&langs_count=10&hide=Jupyter%20Notebook,HTML,ActionScript,Dart,LilyPond,SCSS,TeX&layout=compact" alt="Most used languages" />
     </p>
     <p align="center">
-        <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=true" alt="Wakatime" />
-    </p> 
-    <p align="center">
         <img src="https://mathewb-github-stats.vercel.app/api?hide=stars&count_private=true&username=mathewbushuru&show_icons=true" alt="GitHub Stats" />
     </p>
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewbushuru&count_private=true" alt="Coding Streak" />
-    </p>    
+    </p>  
+    <!-- <p align="center">
+        <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=true" alt="Wakatime" />
+    </p>    -->
 </details>
 
 <br/>
