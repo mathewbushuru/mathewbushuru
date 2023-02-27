@@ -33,7 +33,7 @@
         <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=false&custom_title=Weekly%20Development%20Breakdown" alt="Wakatime" />
     </p>     -->
     <p align="center">
-        <img src="https://wakatime.com/share/@mathewbushuru/4b5ec5f6-2c75-41f9-8fdb-422a3382c1f2.svg" alt="Wakatime" />
+        <img src="https://wakatime.com/share/@mathewbushuru/4b5ec5f6-2c75-41f9-8fdb-422a3382c1f2.svg" width="550px" alt="Wakatime" />
     </p> 
     <!-- <p align="center">
         <img src="https://github.com/mathewbushuru/mathewbushuru/blob/main/images/stat.svg" alt="Weekly development breakdown" />
