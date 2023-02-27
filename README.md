@@ -10,7 +10,7 @@
             <a href="https://www.somaoffline.org/" target="_blank">Soma Offline</a> - Enabling remote communities to access free educational resources.
         </li>
         <li>
-            <a href="https://googly-lovat.vercel.app/" target="_blank">Googly</a> - A Google Search clone built as part of a series of cloning popular apps in order to improve my skills.
+            <a href="https://googly-lovat.vercel.app/" target="_blank">Googly</a> - A Google Search clone with real time google search  results.
         </li>
         <li>
             <a href="https://drive.google.com/file/d/1kLxX1jKLB9KO0bDT4NWMINICkX8UoGzA/view?usp=sharing" target="_blank">A Curriculum Alignment Machine Learning Model</a> - Using natural language processing to predict content items best aligned to a given topic when
@@ -29,9 +29,12 @@
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewbushuru" alt="Coding Streak" />
     </p>   
-    <p align="center">
+    <!-- <p align="center">
         <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=false&custom_title=Weekly%20Development%20Breakdown" alt="Wakatime" />
-    </p>    
+    </p>     -->
+    <p align="center">
+        <img src="https://wakatime.com/share/@mathewbushuru/4b5ec5f6-2c75-41f9-8fdb-422a3382c1f2.svg" alt="Wakatime" />
+    </p> 
     <!-- <p align="center">
         <img src="https://github.com/mathewbushuru/mathewbushuru/blob/main/images/stat.svg" alt="Weekly development breakdown" />
      </p> -->
