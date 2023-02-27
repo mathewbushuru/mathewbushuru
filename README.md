@@ -21,7 +21,7 @@
 <details align="center">
     <summary><b>My GitHub Stats</b></summary>   
      <p align="center">
-        <img src="https://mathewb-github-stats.vercel.app/api/top-langs?username=mathewbushuru&langs_count=10&hide=Jupyter%20Notebook,HTML,ActionScript,Dart,LilyPond,SCSS,TeX&layout=compact" alt="Most used languages" />
+        <img src="https://mathewb-github-stats.vercel.app/api/top-langs?username=mathewbushuru&langs_count=10&exclude_repo=somabilanet,Soma,MyProjects,kentradr,tucode,github-readme-stats,nataliesnumbers,my-book-repository,gatsby-app,digital-communication-system&hide=Jupyter%20Notebook,html,TeX,VHDL,Shell&layout=compact" alt="Most used languages" />
     </p>
     <p align="center">
         <img src="https://mathewb-github-stats.vercel.app/api?hide=stars&count_private=true&username=mathewbushuru&show_icons=true" alt="GitHub Stats" />
