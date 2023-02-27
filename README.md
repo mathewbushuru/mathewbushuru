@@ -43,9 +43,6 @@
      </p>
 </details>
 
-![ssds](https://wakatime.com/share/@mathewbushuru/4b5ec5f6-2c75-41f9-8fdb-422a3382c1f2.svg)
-![sdsd](https://wakatime.com/badge/user/2d0aa16f-c1ac-418b-a6e5-65df0e2a9222.svg)
-
 <br/>
 <p align="center">
     <b>Things I Code With</>
