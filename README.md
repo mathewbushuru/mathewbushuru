@@ -7,15 +7,18 @@
 </p>
 <ul>
         <li>
-            <a href="https://www.somaoffline.org/" target="_blank">Soma Offline</a> - Enabling remote communities to access free educational resources.
-        </li>
-        <li>
             <a href="https://googly-lovat.vercel.app/" target="_blank">Googly</a> - A Google Search clone with real time google search  results.
         </li>
         <li>
+            <a href="https://pro-search-x.vercel.app/" target="_blank">Google ProSearchX</a> - A wrapper around Google Search for power users who require a faster way to unlock Google's search capabilities.
+        </li>
+        <li>
+            <a href="https://www.somaoffline.org/" target="_blank">Soma Offline</a> - Enabling remote communities to access free educational resources.
+        </li>
+        <!-- <li>
             <a href="https://drive.google.com/file/d/1kLxX1jKLB9KO0bDT4NWMINICkX8UoGzA/view?usp=sharing" target="_blank">A Curriculum Alignment Machine Learning Model</a> - Using natural language processing to predict content items best aligned to a given topic when
             creating a curriculum from online open-source educational materials.
-        </li>
+        </li> -->
     </ul>
 
 <details align="center">
