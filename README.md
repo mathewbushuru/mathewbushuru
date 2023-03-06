@@ -3,7 +3,7 @@
 </h2>
 
 <p>
-    Welcome to my GitHub. I am a self-taught developer with a background in electrical engineering. Among the projects that I am working on or have completed recently, these are my favorites:
+    Welcome to my GitHub. Among the projects that I am working on or have completed recently, these are my favorites:
 </p>
 <ul>
         <li>
