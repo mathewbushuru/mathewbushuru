@@ -45,7 +45,7 @@
      <img src="https://wakatime.com/badge/user/2d0aa16f-c1ac-418b-a6e5-65df0e2a9222.svg" alt="Wakatime Time" />
      </p> -->
      <p align="center">
-     <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=true&custom_title=Weekly%20Development%20Breakdown&langs_count=4&theme=swift&hide_border=true&layout=compact&hide_progress=false&range=last_7_days" width="350px" alt="Wakatime Time" />
+     <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=true&custom_title=Weekly%20Development%20Breakdown&langs_count=4&theme=swift&hide_border=true&layout=compact&hide_progress=false&range=last_7_days" width="600px" alt="Wakatime Time" />
      </p>
 </details>
 
