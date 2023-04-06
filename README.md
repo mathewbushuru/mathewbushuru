@@ -2,10 +2,13 @@
     Mathew Bushuru
 </h2>
 
-<p>
-    Welcome to my GitHub. Among the projects that I am working on or have completed recently, these are my favorites:
+<p align="center">
+    Welcome to my GitHub.
 </p>
-<ul>
+<!-- <p>
+    Welcome to my GitHub. Among the projects that I am working on or have completed recently, these are my favorites:
+</p> -->
+<!-- <ul>
         <li>
             <a href="https://googly-lovat.vercel.app/" target="_blank">Googly</a> - A Google Search clone with real time google search  results.
         </li>
@@ -15,10 +18,11 @@
         <li>
             <a href="https://www.somaoffline.org/" target="_blank">Soma Offline</a> - Enabling remote communities to access free educational resources.
         </li>
-    </ul>
+    </ul> -->
 
 <details align="center">
     <summary><b>My GitHub Stats</b></summary>   
+     <br/>
      <p align="center">
         <img src="https://mathewb-github-stats.vercel.app/api/top-langs?username=mathewbushuru&langs_count=10&hide=Jupyter%20Notebook,TeX,Shell,CMake,SCSS,HTML&exclude_repo=Soma,somabilanet,kentradr&layout=compact" alt="Most used languages" />
     </p>
@@ -45,7 +49,7 @@
      </p>
 </details>
 
-<br/>
+<!-- <br/>
 <p align="center">
     <b>Things I Code With</>
 </p>
@@ -78,10 +82,12 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="jest" src="https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="testing library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white" />
-</p>
+</p> 
 
 ---
+-->
 
+<br/>
 <p align="center">
     <a href="https://www.linkedin.com/in/mathewbushuru/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
