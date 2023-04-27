@@ -31,3 +31,7 @@
     <a href="https://www.linkedin.com/in/mathewbushuru/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
 </p>
+<p align="center">
+    <a href="https://mathewbushuru.com/" target="_blank">
+        <img src="https://img.shields.io/badge/-mathewbushuru.com-0A0A0B?logo=googlechrome&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
+</p>
