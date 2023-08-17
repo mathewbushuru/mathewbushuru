@@ -15,15 +15,15 @@
     <p align="center">
         <img src="https://mathewb-github-stats.vercel.app/api?hide=stars&count_private=true&username=mathewbushuru&show_icons=true" alt="GitHub Stats" />
     </p>
-    <p align="center">
+    <!-- <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewbushuru" alt="Coding Streak" />
-    </p>  
+    </p>   -->
     <p align="center">
         <img src="https://wakatime.com/share/@mathewbushuru/4b5ec5f6-2c75-41f9-8fdb-422a3382c1f2.svg" width="550px" alt="Wakatime" />
     </p>  
      <p align="center">
-     <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=true&custom_title=Weekly%20Development%20Breakdown&langs_count=4&theme=swift&hide_border=true&layout=compact&hide_progress=false&range=last_7_days" width="600px" alt="Wakatime Time" />
-     </p>
+     <!-- <img src="https://mathewb-github-stats.vercel.app/api/wakatime?username=mathewbushuru&hide_title=true&custom_title=Weekly%20Development%20Breakdown&langs_count=4&theme=swift&hide_border=true&layout=compact&hide_progress=false&range=last_7_days" width="600px" alt="Wakatime Time" />
+     </p> -->
 </details>
 
 <br/>
