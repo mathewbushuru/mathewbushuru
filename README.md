@@ -6,7 +6,7 @@
     Welcome to my GitHub.
 </p>
 
-<details align="center">
+<!-- <details align="center">
     <summary><b>My GitHub Stats</b></summary>   
      <br/>
      <p align="center">
@@ -18,7 +18,7 @@
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathewbushuru" alt="Coding Streak" />
     </p> 
-</details>
+</details> -->
 
-<br/>
+<!-- <br/> -->
 
